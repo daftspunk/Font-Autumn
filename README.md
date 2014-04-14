@@ -5,13 +5,14 @@
 The full suite of pictographic icons, examples, and documentation can be found at:
 http://daftspunk.github.io/Font-Autumn/
 
-##License
+## License
 
-Version 2.0 of the Font Awesome font, CSS, and LESS files are licensed under CC BY 3.0:
-http://creativecommons.org/licenses/by/3.0/
-A mention of 'Font Awesome - http://fortawesome.github.com/Font-Awesome'
-in human-readable source code is considered acceptable attribution (most common on the
-web). If human readable source code is not available to the end user, a mention in an 'About' 
-or 'Credits' screen is considered acceptable (most common in desktop or mobile software).
-
-
+- The Font Awesome font is licensed under the SIL OFL 1.1:
+  - http://scripts.sil.org/OFL
+- Font Awesome CSS, LESS, and SASS files are licensed under the MIT License:
+  - http://opensource.org/licenses/mit-license.html
+- The Font Awesome documentation is licensed under the CC BY 3.0 License:
+  - http://creativecommons.org/licenses/by/3.0/
+- Attribution is no longer required as of Font Awesome 3.0, but much appreciated:
+  - `Font Awesome by Dave Gandy - http://fontawesome.io`
+- Full details: http://fontawesome.io/license
