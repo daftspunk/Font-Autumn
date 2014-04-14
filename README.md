@@ -5,6 +5,16 @@
 The full suite of pictographic icons, examples, and documentation can be found at:
 http://daftspunk.github.io/Font-Autumn/
 
+## Remember when Font-Awesome was cool?
+
+We do, that's why this repository uses:
+
+* Font files from version 4
+* LESS styles from version 3
+* Documentation from version 2
+
+We'll also be adding some more icon packs later down the track.
+
 ## License
 
 - The Font Awesome font is licensed under the SIL OFL 1.1:
