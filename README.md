@@ -9,7 +9,7 @@ http://daftspunk.github.io/Font-Autumn/
 
 We do, that's why this repository uses:
 
-* Font files from version 4.1
+* Font files from version 4.3
 * LESS styles from version 3
 * Documentation from version 2
 
